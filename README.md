@@ -61,3 +61,11 @@ These datasets are merged to form a comprehensive dataset for building the recom
 - Pandas
 - scikit-learn
 - NLTK
+
+
+## Potential Improvements:
+
+- Hybrid Recommendation: Combine content-based filtering with collaborative filtering.
+- UI Integration: Build an interactive interface using Streamlit or Flask.
+- Advanced NLP: Use techniques like TF-IDF or embeddings for better feature representation.
+- Performance Optimization: Leverage sparse matrices or distributed systems for scalability.
